@@ -1,0 +1,14 @@
+****************************************************************
+*                      SLURM Batch System                      *
+*           IN2P3 Computing Centre, Villeurbanne FR            *
+****************************************************************
+* Date:                 Fri Jul  7 11:38:15 CEST 2023
+* Job name:             generate_rich.sh
+* Job id:               36124372
+* User:                 ebarroso
+* Account:              lsst
+* Submit host:          jns-ebarroso.cc.in2p3.fr
+* Partition:            htc
+* Quality of service:   normal
+* Nodelist:             ccwslurm0143
+****************************************************************
